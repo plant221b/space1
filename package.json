@@ -1,0 +1,23 @@
+{
+  "name": "space1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plant221b/space1.git"
+  },
+  "author": "jiyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plant221b/space1/issues"
+  },
+  "homepage": "https://github.com/plant221b/space1#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.7.1"
+  }
+}
